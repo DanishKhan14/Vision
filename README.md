@@ -52,6 +52,5 @@ One todos is to compute some statistical features (mean, variance) from those no
 
 
 4. 	Weakly supervised Learning
-I have a model written down in latex, and attached in the email.
 
 
